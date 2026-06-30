@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nathan A. Haskins
 
-<!--
-**nhaskins/nhaskins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior DevOps & AI Automation Engineer working across automation, CI/CD, web systems, Cloudflare, n8n, reporting pipelines, and AI-assisted workflows.
 
-Here are some ideas to get you started:
+- Portfolio: https://natehaskins.com
+- Technical overview: https://natehaskins.com/technical
+- LinkedIn: https://www.linkedin.com/in/nathan-haskins/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## More Work
+
+Most of my GitHub work has lived across personal, business, and organization repositories over the past 10+ years. Some repos are public, while many client, consulting, automation, and experimental projects remain private.
+
+For more examples, also see:
+
+- Haskins IT: https://github.com/HaskinsIT
+- BunnyGun Games: https://github.com/BunnyGunGames
+
+If you are reviewing my background for a specific role and want examples in a particular area — DevOps, CI/CD, n8n automation, Cloudflare, Svelte/SvelteKit, WordPress, reporting pipelines, AI workflows, or game/interactive work — feel free to ask. I may have relevant private or archived examples I can describe or selectively share.
