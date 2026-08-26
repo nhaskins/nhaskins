@@ -1,15 +1,17 @@
 # Nathan A. Haskins
 
-Senior DevOps & AI Automation Engineer working across automation, CI/CD, web systems, Cloudflare, n8n, reporting pipelines, and AI-assisted workflows.
+Developer Relations engineer and technical builder working across AI automation, DevOps, developer tooling, web systems, APIs, Cloudflare, n8n, CI/CD, and AI-assisted workflows.
 
-- Website: https://natehaskins.com
-- LinkedIn: https://www.linkedin.com/in/nathan-haskins/
+I build with emerging technologies, figure out what makes them useful, and turn what I learn into practical examples, tutorials, demos, documentation, and technical content for other developers.
+
+* Website: https://natehaskins.com
+* LinkedIn: https://www.linkedin.com/in/nathan-haskins/
 
 ## More Work
 
-Most of my GitHub work has lived across personal, business, and organization repositories over the past 10+ years. Some repos are public, while many client, consulting, automation, and experimental projects remain private.
+My GitHub history spans more than 10 years of personal projects, product development, consulting, automation, experiments, and technical education. Some repositories are public, while much of my client and commercial work remains private.
 
-For more examples, also see:
+For additional projects and older work:
 
-- Haskins IT: https://github.com/HaskinsIT
-- BunnyGun Games: https://github.com/BunnyGunGames
+* Haskins IT: https://github.com/HaskinsIT
+* BunnyGun Games: https://github.com/BunnyGunGames
