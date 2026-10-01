@@ -1,4 +1,4 @@
-# Nathan A. Haskins
+# Nate Haskins
 
 AI generalist, developer, and technical educator working across AI automation, developer tooling, DevOps, web systems, APIs, Cloudflare, n8n, CI/CD, and local AI workflows.
 
